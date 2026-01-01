@@ -17,9 +17,8 @@ export default function DangNhap() {
 
       <Text style={styles.label}>Email</Text>
       <TextInput placeholder="Enter your email" 
-      secureTextEntry
       style={styles.input} />
-
+      
       <Text style={styles.label}>Password</Text>
       <TextInput
         placeholder="Enter your password"
